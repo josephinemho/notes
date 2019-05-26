@@ -1,0 +1,8 @@
+keys
+*/keys
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.csv
+*/*.csv
+./Trash-1000
+*/.Trash-1000/*
